@@ -4,7 +4,7 @@ Dësen Kontrakt besteet tëschent [Firma] an [Client]
 
 Ech wäert ëmmer mäin Bescht ginn fir Kritären an Erwaardungen gerëscht ze ginn mee et ass trotzem wichteg dass mer eis Zesummenaarbecht schrëftlech festhalen, fir dass mer allen Zwee wëssen ween wéi eng Roll huet, an wat geschitt wann eppes schif leeft.
 
-An dësem Kontrakt sollen keng laang, onverständlech Wieder an komplizéiert Passagen ze fannen sinn. Ech hu keng Absiicht dech eppes ënnerschreiwen ze loossen wat's du spéider bereien géifs. Wat ech well ass dat Bescht fir eis Zwee, lo an an der Zukunft.
+An dësem Kontrakt sollen keng laang, onverständlech Wieder an komplizéiert Passagen ze fannen sinn. Ech hu keng Absiicht eppes ënnerschreiwen ze loossen wat spéider bereit gëtt. Wat ech well ass dat Bescht fir eis Zwee, lo an an der Zukunft.
 
 Kuerz gefaasst;
 
