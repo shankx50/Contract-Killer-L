@@ -18,8 +18,12 @@ Dir [Numm vum Client], mat Adress zu [Adress vum Client] stellt d'Firma mat Setz
 
 ##Kommen mer zu den Detailer
 
-#Design
+###Design
 
 Ech creéieren lieweg Designs déi Dir am Internet-Browser kënnt kucken. Et sinn flexibel Säiten-Strukturen, déi sech op d'Gréisst vun verschiddenen Apparater upassen. Ech creéieren déi Designs Schrëtt fir Schrëtt an wäert haaptsächlech HTML an CSS benotzen fir dass keng Zäit domat verluer geet fir all Template als éischt statesch mat engem Grafiksprogramm ze designen.
 
 Dir wäert genuch Méiglechkeeten hunn fir meng Aarbecht ze kucken an mir ze soen wat der dovun haalt. Ech wäert meng Aarbecht an engem Kollaboratiounsprogramm mam Numm [Numm] mat Iech deelen. Mir wäerte reegelméissegen, eventuell deeglechen Kontakt hunn. Wann Dir net méi sollt zefridden mat menger Aarbecht sinn, kennt Dir zu all Moment den Kontrakt opléisen, mee ech ginn awer fir déi Aarbecht déi ech bis dohin gemaach hunn bezuelt.
+
+###Contenu (Text)
+
+Ech wäert déi éischt Ronn vun Contenu an Säit setzen. Dat maachen ech awer nëmmen fir Text, deen Dir mir zu Verfügung stellt. Ech sinn net dofir zoustänneg den Text fir Är Säit ze schreiwen. Falls datt erwescht ass, kann ech dat géint Bezuelung maachen, oder Iech eng professionell Persoun fir deen Deel vun der Aarbecht virschloen.
