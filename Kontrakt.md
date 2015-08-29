@@ -26,4 +26,8 @@ Dir wäert genuch Méiglechkeeten hunn fir meng Aarbecht ze kucken an mir ze soe
 
 ###Contenu (Text)
 
-Ech wäert déi éischt Ronn vun Contenu an Säit setzen. Dat maachen ech awer nëmmen fir Text, deen Dir mir zu Verfügung stellt. Ech sinn net dofir zoustänneg den Text fir Är Säit ze schreiwen. Falls datt erwescht ass, kann ech dat géint Bezuelung maachen, oder Iech eng professionell Persoun fir deen Deel vun der Aarbecht virschloen.
+Ech wäert déi éischt Ronn vum Contenu an Säit setzen. Dat maachen ech awer nëmmen fir Text, deen Dir mir zu Verfügung stellt. Ech sinn net dofir zoustänneg den Text fir Är Säit ze schreiwen. Falls datt erwënscht ass, kann ech dat géint zousätzlech Bezuelung maachen, oder Iech eng professionell Persoun fir deen Deel vun der Aarbecht virschloen.
+
+###Fotoen
+
+Dir sollt grafesch Dateien an engem onverschlësselten, digitalen Vecteur-Format zu Verfügung stellen. Dir sollt Fotoen an enger grousser Opléisung zu Verfügung stellen. Falls Dir sollt wëllen Fotoen kafen, sou kann ech Quellen virschloen. Wann Dir gären hätt, dass ech soll Fotoen sichen, sou kann ech dat géint zousätzlech Bezuelung maachen.
