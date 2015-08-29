@@ -31,3 +31,7 @@ Ech wäert déi éischt Ronn vum Contenu an Säit setzen. Dat maachen ech awer n
 ###Fotoen
 
 Dir sollt grafesch Dateien an engem onverschlësselten, digitalen Vecteur-Format zu Verfügung stellen. Dir sollt Fotoen an enger grousser Opléisung zu Verfügung stellen. Falls Dir sollt wëllen Fotoen kafen, sou kann ech Quellen virschloen. Wann Dir gären hätt, dass ech soll Fotoen sichen, sou kann ech dat géint zousätzlech Bezuelung maachen.
+
+###Testen am Browser
+
+Testen am Browser bedeit Hautdesdaags net méi dass een versicht d’Ausgesinn an d’Funktionalitéit vun enger Websäit fir all Browser an allen verschiddenen Gréissten, wat gëss de wat hues, hikréien muss. Vill méi bedeit et, dass d’Erfahrung déi den Benotzer vun enger Websäit huet, eng Positiv ass.
