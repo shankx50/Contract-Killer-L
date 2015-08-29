@@ -34,4 +34,8 @@ Dir sollt grafesch Dateien an engem onverschlësselten, digitalen Vecteur-Format
 
 ###Testen am Browser
 
-Testen am Browser bedeit Hautdesdaags net méi dass een versicht d’Ausgesinn an d’Funktionalitéit vun enger Websäit fir all Browser an allen verschiddenen Gréissten, wat gëss de wat hues, hikréien muss. Vill méi bedeit et, dass d’Erfahrung déi den Benotzer vun enger Websäit huet, eng Positiv ass.
+Testen am Browser bedeit Hautdesdaags net méi dass een versicht d’Ausgesinn an d’Funktionalitéit vun enger Websäit fir all Browser an allen verschiddenen Gréissten, wat gëss de wat hues, hikréien muss. Vill méi bedeit et, dass d’Erfahrung déi den Benotzer vun enger Websäit huet, eng positiv ass.
+
+###Dektop Browser Testen
+
+Ech testen meng Aarbecht an den aktuellen Versiounen vun Apple (Safari), Google (Chrome), Mozilla (Firefox), an Microsoft (Edge). Am Fall wou méi al Browseren mussen ënnerstëtzt ginn, kann dat mat mir am Viraus ofgeschwat ginn. Je no Opwand gëtt déi Aarbecht zousätzlech berechent.
