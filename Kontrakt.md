@@ -44,6 +44,17 @@ Ech testen meng Aarbecht an den aktuellen Versiounen vun Apple (Safari), Google 
 
 Et ass wichteg dass een d’Websäit och test ob se gutt mat mobilen Apparater ze benotzen ass. Dozou gehéieren haaptsächlech Smartphonen and Tabletten. Ech testen meng Aarbecht :
 
-iOS: Safari, Google Chrome Android 4.x: Google Chrome and Firefox
+***iOS:*** Safari
+***Google Chrome Android:*** Google Chrome and Firefox
 
 Ech testen am Moment net fir Blackberry, Opera Mini/Mobile, Windows Phone oder aner mobile Browseren. Sollt dat erwënscht sinn, sou kann ech dat géint zousätzlech Bezuelung maachen.
+
+###Techneschen Support
+
+Dësen Kontrakt ass ouni Web Hosting ze verstoen. Dat heescht, dass keen Support fir Hosting, Email, oder soss Hosting Servicer abegraff sinn. Dir hutt eventuell schonn eng professionell Hosting Optioun oder host Är Websäit eventuell souguer bei Iech intern. Falls dat net den Fall soll sinn, da kann ech Iech komplett Hosting Servicer ubidden. Mir géifen dat dann awer an engem separaten Kontrakt reegelen.
+
+Et versteet sech vum selwen, dass ech Ufangs hëllefen d’Websäit op Ärer Hosting Optioun ze lancéieren. Dono sidd Dir dann awer fir den Management vum Server zoustänneg.
+
+###Ännerungen and Revisiounen
+
+Ech weess aus Erfahrung, dass Kontrakter mat festem Preis dem Client oft keen gudden Déngscht leeschten. De Problem ass, dass sou en Kontrakt Iech oft un Är éischt Idee festbannen. Dat as awa net dat wat ech well. Dir sollt Är Meenung kennen änneren  Den Preis deen an dësem Kontrakt festgehalen ass couvréiert alles dat, wat mir bis elo beschwat hunn (Annexe [Nummer]), ma ech sinn awer gären flexibel. Wann Dir Är Meenung ännert oder nach sollen Saachen dobäi kommen - keen Problem! Ech wärt gären en weideren Devis fir Iech opstellen.
