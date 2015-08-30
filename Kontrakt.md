@@ -39,3 +39,11 @@ Testen am Browser bedeit Hautdesdaags net méi dass een versicht d’Ausgesinn a
 ###Desktop Browser Testen
 
 Ech testen meng Aarbecht an den aktuellen Versiounen vun Apple (Safari), Google (Chrome), Mozilla (Firefox), an Microsoft (Edge). Am Fall wou méi al Browseren mussen ënnerstëtzt ginn, kann dat mat mir am Viraus ofgeschwat ginn. Je no Opwand gëtt déi Aarbecht zousätzlech berechent.
+
+###Mobile  Browser Testen
+
+Et ass wichteg dass een d’Websäit och test ob se gutt mat mobilen Apparater ze benotzen ass. Dozou gehéieren haaptsächlech Smartphonen and Tabletten. Ech testen meng Aarbecht :
+
+iOS: Safari, Google Chrome Android 4.x: Google Chrome and Firefox
+
+Ech testen am Moment net fir Blackberry, Opera Mini/Mobile, Windows Phone oder aner mobile Browseren. Sollt dat erwënscht sinn, sou kann ech dat géint zousätzlech Bezuelung maachen.
