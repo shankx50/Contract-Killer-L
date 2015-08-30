@@ -40,7 +40,7 @@ Testen am Browser bedeit Hautdesdaags net méi dass een versicht d’Ausgesinn a
 
 Ech testen meng Aarbecht an den aktuellen Versiounen vun Apple (Safari), Google (Chrome), Mozilla (Firefox), an Microsoft (Edge). Am Fall wou méi al Browseren mussen ënnerstëtzt ginn, kann dat mat mir am Viraus ofgeschwat ginn. Je no Opwand gëtt déi Aarbecht zousätzlech berechent.
 
-###Mobile  Browser Testen
+###Mobil  Browser Testen
 
 Et ass wichteg dass een d’Websäit och test ob se gutt mat mobilen Apparater ze benotzen ass. Dozou gehéieren haaptsächlech Smartphonen and Tabletten. Ech testen meng Aarbecht :
 
@@ -53,7 +53,7 @@ Ech testen am Moment net fir Blackberry, Opera Mini/Mobile, Windows Phone oder a
 
 Dësen Kontrakt ass ouni Web Hosting ze verstoen. Dat heescht, dass keen Support fir Hosting, Email, oder soss Hosting Servicer abegraff sinn. Dir hutt eventuell schonn eng professionell Hosting Optioun oder host Är Websäit eventuell souguer bei Iech intern. Falls dat net den Fall soll sinn, da kann ech Iech komplett Hosting Servicer ubidden. Mir géifen dat dann awer an engem separaten Kontrakt reegelen.
 
-Et versteet sech vum selwen, dass ech Ufangs hëllefen d’Websäit op Ärer Hosting Optioun ze lancéieren. Dono sidd Dir dann awer fir den Management vum Server zoustänneg.
+Et versteet sech vum selwen, dass ech Ufangs hëllefen d’Websäit op Ärer Hosting Optioun ze lancéieren. Dono sidd Dir dann awer fir den Management, d’Sëcherheet an d’Updates vum Server zoustänneg.
 
 ###Ännerungen and Revisiounen
 
