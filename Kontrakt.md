@@ -57,4 +57,43 @@ Et versteet sech vum selwen, dass ech Ufangs hëllefen d’Websäit op Ärer Hos
 
 ###Ännerungen and Revisiounen
 
-Ech weess aus Erfahrung, dass Kontrakter mat festem Preis dem Client oft keen gudden Déngscht leeschten. De Problem ass, dass sou en Kontrakt Iech oft un Är éischt Idee festbannen. Dat as awa net dat wat ech well. Dir sollt Är Meenung kennen änneren  Den Preis deen an dësem Kontrakt festgehalen ass couvréiert alles dat, wat mir bis elo beschwat hunn (Annexe [Nummer]), ma ech sinn awer gären flexibel. Wann Dir Är Meenung ännert oder nach sollen Saachen dobäi kommen - keen Problem! Ech wärt gären en weideren Devis fir Iech opstellen.
+Ech weess aus Erfahrung, dass Kontrakter mat festem Preis dem Client oft keen gudden Déngscht leeschten. De Problem ass, dass sou en Kontrakt Iech oft un Är éischt Idee festbannen. Dat ass awer net dat wat ech well. Dir sollt Är Meenung kennen änneren  Den Preis deen an dësem Kontrakt festgehalen ass couvréiert alles dat, wat mir bis elo beschwat hunn, ma ech sinn awer gären flexibel. Wann Dir Är Meenung ännert oder nach sollen Saachen dobäi kommen - keen Problem! Ech wärt gären en weideren Devis fir Iech opstellen.
+
+###Legal Ofsécherungen
+
+Ech kann keng Garantie ginn, dass meng Aarbecht komplett ouni Feeler wärt sinn. Vun dohier sinn ech net haftbar wann duerch meng Aarbecht Aboussen vun egal wei enger Natur entstinn. Ech sinn net haftbar wann Akommes verluer geet, Erspuernisser verluer ginn, oder soss iergendwellech negativ Konsequenzen opkommen, esou guer dann, wann ech vun Iech am Viraus gewarnt gouf. Wann iergend e Konzept, oder eng Idee an dësem Kontrakt gesetzlech ongülteg ass, dann heescht dat net, dass de Recht vum Kontrakt doduerch och ongülteg ass.
+
+###Urheberrecht
+
+Als Éischt garantéiert Dir mir, dass all Text, Foto, oder aner kreatiivt Element wat ech vun Iech kréien äerd Eegentum ass, oder Dir d'Erlaabnis hutt et ze benotzen.
+
+Dono, wann déi lescht Bezuelung vun Ärer Säit aus gemaach, ass d'Urheberrecht folgendermoossen gereegelt:
+
+Iech gehéieren all déi visuell Elementer, déi ech fir Iech creéiert hunn. Ech ginn Iech all d'Dateien vum fäerdegem Projet, an déi sollt Dir sécher ofspäicheren, well ech net gebonnen sinn eng Kopie dovun ze halen. Iech gehéiert all Textelement, Bild oder Datei déi Dir zur Verfügung gestallt hutt, ausser si gehéieren engem Aneren.
+
+Mir gehéiert déi eenzegaarteg Kombinatioun vun deenen Elementer déi den Site an senger Gesamtheet duerstellen, an ech ginn Iech an alleng Iech d'Recht fir eng zäitlech onbegrenzt d'Benotzung, mee just fir dësen Projet, ausser mir hätten eis anescht gëeenegt.
+
+Ech weisen der Welt gär wat ech geschaf hunn, an ech deelen Erkenntnisser mat aneren Leit. Vun dohier halen ech mer d'Recht, mat Ärem Averständnes, fir Ären Projet op mengen online Plattformen ze weisen, an dorop hinzeweisen. Ech däerf och iwwert den Projet schreiwen, egal wat d'Medium ass.
+
+
+###Reegelméisseg Maintenance
+
+Ech hunn eng ganz einfach Approche zur reegelméisseger Maintenance vum Site. Falls erwënscht stellen mer e weideren Kontrakt op fir EUR[Montant] pro Mount. All Mount hutt Dir dann 2 Stonnen vun mengem Support ze gutt. Zousätzlech Stonnen kennen zum Präis vun [Montant] kaf ginn, wann méi wéi 2 Stonnen gebraucht ginn. Ech halen e Regëster wou ech festhalen wéi déi Stonnen benotzt goufen. En Extrait vum Regëster kann op Ufro geliwwert ginn. Net gebrauchten Stonnen kennen bis zu engem Joer gesammelt ginn, dono fänkt de Credit rëm bei Null un.
+
+###Bezuelung
+
+Ech denken dass Dir verstitt, wéi wichteg et ass fir en onofhängegen Web Developer schnell bezuelt ze ginn, wann eng Rechnung geschéckt gëtt. Ech sinn mer och sécher, dass Dir un enger gudder Zesummenaarbecht interesséiert sidd. Vun dohier haalt Dir Iech ganz genee un folgend Aart a Weis mech ze bezuelen.
+
+....
+
+###Wou ass all dat Kleng Geschriwwent?
+
+Dësen Kontrakt kann net ouni mäin Averständnes un eng aner Partei weider gedroen ginn. Dësem Kontrakt bleift bestoen, an muss net erneiert ginn. Wann iergend e Konzept, oder eng Idee an dësem Kontrakt gesetzlech ongülteg ass, oder net ausgefouert kann ginn, dann heescht dat net, dass de Recht vum Kontrakt doduerch och ongülteg ass.
+
+Obwuel de Kontrakt an enger einfacher Sprooch opgesat ass, sou ass den Hannergrond awer ganz serieux ze huelen, an dësen Kontrakt ënnerläit exklusiv den Gesetzer vum [Land].
+
+All rechtlechen Streit kann nëmmen virun engem Gericht zu [Land] tranchéiert ginn.
+
+---
+
+Ënnerschreften vun all de Parteien.
